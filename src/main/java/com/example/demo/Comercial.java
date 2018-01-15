@@ -13,7 +13,7 @@ public class Comercial {
 	}
 	
 	public Comercial(int id, String nombre, String apellido, long salario) {
-		super();
+		
 		this.id = id;
 		this.nombre = nombre;
 		this.apellido = apellido;
